@@ -25,6 +25,7 @@ and different relational databases such as MySQL and PostgreSQL.
 🎓 I recently graduated with an Associate's in Software Development and am currently working towards a Bachelor's in Computer Science.
 
 👨‍👧‍👦 Outside of the tech world, I'm a proud father who enjoys spending quality time with family.
+
 🎸 I have a passion for playing guitar, experimenting with new recipes in the kitchen, watching sports, and reading books that my wife finds boring 😄.
 
 Let's Connect!
