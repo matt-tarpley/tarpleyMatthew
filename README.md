@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🚀 About Me
+
 Im Matt Tarpley, a full stack web and cross-platform mobile developer specializing in ASP.NET Core, .NET MAUI, and SQL Server/T-SQL.
  
 💡Although C# and .NET have a special place in my heart, Im always eager to learn new technology and expand my knowledge base! I'm 
