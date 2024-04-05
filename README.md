@@ -28,6 +28,7 @@ and different relational databases such as MySQL and PostgreSQL.
 🎸 I have a passion for playing guitar, experimenting with new recipes in the kitchen, watching sports, and reading books that my wife finds boring 😄.
 
 Let's Connect!
+
 If you're interested in collaborating, discussing projects, or simply want to chat about tech, feel free to reach out. You can connect with me on LinkedIn.
 
 Thanks for stopping by! 🌟
